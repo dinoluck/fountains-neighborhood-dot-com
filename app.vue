@@ -428,6 +428,11 @@ const lists = [
           </div>
         </div>
         <div class="px-6 py-6 lg:px-8 text-center text-gray-400">
+          <a
+            href="mailto:info@fountainsneighborhood.com"
+            class="text-indigo-600"
+            >info@fountainsneighborhood.com</a
+          ><br />
           Fountains Neighborhood, {{ new Date().getFullYear() }}
         </div>
       </div>
